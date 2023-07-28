@@ -1,0 +1,15 @@
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_07_28\String Manipulation\String Manipulation\bin\Debug\net6.0\String Manipulation.exe
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_07_28\String Manipulation\String Manipulation\bin\Debug\net6.0\String Manipulation.deps.json
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_07_28\String Manipulation\String Manipulation\bin\Debug\net6.0\String Manipulation.runtimeconfig.json
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_07_28\String Manipulation\String Manipulation\bin\Debug\net6.0\String Manipulation.dll
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_07_28\String Manipulation\String Manipulation\bin\Debug\net6.0\String Manipulation.pdb
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_07_28\String Manipulation\String Manipulation\obj\Debug\net6.0\String Manipulation.csproj.AssemblyReference.cache
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_07_28\String Manipulation\String Manipulation\obj\Debug\net6.0\String Manipulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_07_28\String Manipulation\String Manipulation\obj\Debug\net6.0\String Manipulation.AssemblyInfoInputs.cache
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_07_28\String Manipulation\String Manipulation\obj\Debug\net6.0\String Manipulation.AssemblyInfo.cs
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_07_28\String Manipulation\String Manipulation\obj\Debug\net6.0\String Manipulation.csproj.CoreCompileInputs.cache
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_07_28\String Manipulation\String Manipulation\obj\Debug\net6.0\String Manipulation.dll
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_07_28\String Manipulation\String Manipulation\obj\Debug\net6.0\refint\String Manipulation.dll
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_07_28\String Manipulation\String Manipulation\obj\Debug\net6.0\String Manipulation.pdb
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_07_28\String Manipulation\String Manipulation\obj\Debug\net6.0\String Manipulation.genruntimeconfig.cache
+C:\Users\nmeher\OneDrive - DXC Production\Documents\git_workspace\c_sharp_2023_07_28\String Manipulation\String Manipulation\obj\Debug\net6.0\ref\String Manipulation.dll
